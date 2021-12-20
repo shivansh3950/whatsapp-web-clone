@@ -1,3 +1,12 @@
+# whatsapp-web-clone
+Web based Whatsapp clone with realtime private chat and group 
+chat features.
+# Tech Stack
+Frontend: JavaScript,ReactJs <br/>
+Backend: Firebase
+# Clone link
+https://whatsapp-clone-1d21c.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
